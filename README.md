@@ -1,5 +1,5 @@
 
-![Workflow n8n](/https://github.com/katiaaouine/n8n_rag_mistral_pinecone/blob/e7a6b32cdc81c82314aa2d89522cc077ce573944/Screenshot%202026-06-02%2011.01.01.png)
+![image alt ](/https://github.com/katiaaouine/n8n_rag_mistral_pinecone/blob/e7a6b32cdc81c82314aa2d89522cc077ce573944/Screenshot%202026-06-02%2011.01.01.png)
 
 
 ## n8n AI RAG Chatbot (Mistral + Pinecone)
