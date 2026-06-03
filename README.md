@@ -148,7 +148,7 @@ Dans [app.pinecone.io](https://app.pinecone.io), crée un index avec ces paramè
 
 1. Active le workflow (toggle **Active** → ON)
 2. Ouvre le **Chat** intégré n8n
-3. Pose ta question — l'agent répond uniquement sur les données indexées ✅
+3. Pose ta question — l'agent répond uniquement sur les données indexées 
 
 ---
 
@@ -166,37 +166,19 @@ Le projet utilise un dataset COVID-19 (cas, décès, vaccinations par pays). Exe
 
 ---
 
-
-## 🤝 Contributing
-
-Les contributions sont les bienvenues !
-
-```bash
-# 1. Fork le repo
-# 2. Crée ta branche
-git checkout -b feature/ma-nouvelle-feature
-
-# 3. Commite
-git commit -m "feat: description de la feature"
-
-# 4. Push & Pull Request
-git push origin feature/ma-nouvelle-feature
-```
---.
-
 ---
 
 ## Auteure
 
 **Katia Aouine** — AI Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Katia_Aouine-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/katiaaouine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Katia_Aouine-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katia-aouine/)
 [![GitHub](https://img.shields.io/badge/GitHub-katiaaouine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/katiaaouine)
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ using n8n · Mistral AI · Pinecone</sub>
+  <sub>Built  using n8n · Mistral AI · Pinecone</sub>
 </div>
 
 
